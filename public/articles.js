@@ -14,7 +14,7 @@ async function gql(query, variables={}) {
 }
 const GET_USER_ARTICLES = `
     query GetUserArticles($page: Int!) {
-        user(username: "sidcraftscode") {
+        user(username: "Xsantosh") {
             publication {
                 posts(page: $page) {
                     title

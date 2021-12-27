@@ -1,4 +1,5 @@
-# sidcrafts.com - My personal website
-You can check out my website [here](https://sidcrafts.com)
+# FlutterViral - My personal website
+
+You can check out my website [here](https://flutterviral.com)
 
 Built with Tailwind CSS.
